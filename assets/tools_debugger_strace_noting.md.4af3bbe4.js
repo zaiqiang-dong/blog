@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./app.1d82c183.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tools/debugger/strace/noting.md"}'),r={name:"tools/debugger/strace/noting.md"};function a(n,s,c,i,d,p){return o(),t("div")}const l=e(r,[["render",a]]);export{g as __pageData,l as default};
